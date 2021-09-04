@@ -1,2 +1,2 @@
 # lines
-Lines game
+Lines Game
